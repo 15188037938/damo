@@ -108,16 +108,4 @@ def 窗口_查找(对象 , 类名 = str , 标题 = str) :
 	return 对象.FindWindow(类名 , 标题)
 
 
-def 绑定() :
-	print('绑定窗口')
 
-
-def 键盘() :
-	print('测试键盘')
-
-
-def 电脑() :
-	print('测试系统')
-
-def 游戏() :
-	print('测试窗口')
